@@ -1,0 +1,22 @@
+# Exclure toutes les images du dataset
+content/
+PlantVillage/
+
+# Exclure les figures générées
+*.png
+*.jpg
+*.JPG
+*.jpeg
+
+# Exclure les fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Exclure les checkpoints Jupyter
+.ipynb_checkpoints/
+
+# Exclure les modèles sauvegardés
+*.h5
+*.pkl
+*.joblib
+*.csv
