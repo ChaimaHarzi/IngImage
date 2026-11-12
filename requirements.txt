@@ -1,0 +1,8 @@
+gradio
+numpy
+opencv-python-headless
+tensorflow-cpu
+joblib
+scikit-image
+scipy
+scikit-learn
